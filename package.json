@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": ".",
+  "homepage": "https://66c6ba33dd7042000899a504--abhinav-react-apod-app.netlify.app/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
